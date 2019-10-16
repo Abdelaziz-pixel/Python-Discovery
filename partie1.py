@@ -36,10 +36,10 @@ type(int)
 print(myNumber)
 
 #exo6: Ecrire un programme permettant de mettre en majuscule ou minuscule le contenu
-var="ABDEL"
-var.lower()
-var="abdel"
-var.upper()
+var1="ABDEL"
+print(var1.lower())
+var2="abdel"
+print(var2.upper())
 
 
 
